@@ -1,0 +1,24 @@
+{
+	"games": [
+		{
+			"gameTitle": "Heroes of Might and Magic I",
+			"gameCategory": "Strategy",
+			"gameWorking": false
+		},
+		{
+			"gameTitle": "Heroes of Might and Magic II",
+			"gameCategory": "Strategy",
+			"gameWorking": true
+		},
+		{
+			"gameTitle": "Heroes of Might and Magic III",
+			"gameCategory": "Strategy",
+			"gameWorking": true
+		},
+		{
+			"gameTitle": "Heroes of Might and Magic IV",
+			"gameCategory": "Strategy",
+			"gameWorking": false
+		}
+	]
+}
