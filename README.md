@@ -2,7 +2,7 @@
 
 Hej,
 
-Här är mitt bidrag till kodprovet.
+Här är mitt bidrag till kodtestet.
 
 Det var mycket olika verktyg som jag använt för första gången då jag inte tidigare skrivit WPF, använt asynkrona anrop i klientapplikationer eller skrivit enhetstester tidigare.
 
